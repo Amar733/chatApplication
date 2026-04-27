@@ -54,7 +54,7 @@ const AuthPage = () => {
           className="mt-6 w-full text-sm text-purple-700 hover:underline transition"
           onClick={() => setIsLogin(!isLogin)}
         >
-          {isLogin ? "Need an account? Register" : "Already have an account? Login"}
+          {isLogin ? "Need an account? Register" : "Already have an account? do Login"}
         </button>
       </div>
     </div>
