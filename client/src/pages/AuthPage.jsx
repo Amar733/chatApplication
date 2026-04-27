@@ -19,7 +19,7 @@ const AuthPage = () => {
     <div className="flex items-center justify-center h-screen bg-gradient-to-br from-purple-400 via-pink-300 to-orange-200">
       <div className="bg-white/30 backdrop-blur-lg shadow-2xl rounded-2xl p-8 w-96 border border-white/40">
         <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">
-          {isLogin ? "Welcome Back 👋" : "Create an Account ✨"}
+          {isLogin ? "Welcome Back 👋" : "Please Create an Account ✨"}
         </h2>
 
         <form onSubmit={handleSubmit} className="space-y-4">
