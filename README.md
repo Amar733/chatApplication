@@ -10,5 +10,5 @@ mongoDB use as database.
 API logic is defined in controller and it integrate with the frontend using axios.
 here for real time I use websocket.
 
-SIMPLy copy the project download the dependency and req.txt and and in your local server
+SIMPLy copy the project and download the dependency and req.txt and and in your local server
 
